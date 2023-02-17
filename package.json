@@ -10,7 +10,7 @@
     "@material-ui/core": "^1.4.3",
     "@material-ui/icons": "^1.1.0",
     "array-union": "^1.0.2",
-    "compressible": "^2.0.14",
+    "compressible": "^2.0.18",
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.3",
     "html-to-draftjs": "^1.3.1",
